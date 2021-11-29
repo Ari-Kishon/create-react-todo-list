@@ -1,0 +1,10 @@
+.button {
+    border: transparent;
+    background-Color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+
+.complete {
+    fill: green
+}

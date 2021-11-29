@@ -1,0 +1,20 @@
+.task {
+    margin: 20px auto;
+    align-Items: center;
+    display: flex;
+}
+
+.taskText {
+    font-Family: Courier new;
+    font-Size: 30px;
+    height: 30px;
+    border: transparent;
+    background-Color: transparent;
+    outline: none;
+    text-Align: left;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: gray;
+}

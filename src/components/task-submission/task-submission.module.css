@@ -1,0 +1,26 @@
+.container {
+    margin: 20px auto;
+    width: 500px;
+    display: flex;
+    flex-Direction: row;
+    justify-content: space-between;
+}
+
+.taskInput {
+    font-Family: Courier;
+    display: flex;
+    width: 70%;
+    height: 30px;
+    background-color: whitesmoke;
+}
+
+.submitButton {
+    font-Family: Courier;
+    border-color: gray;
+    cursor: pointer;
+    width: 20%;
+    height: 30px;
+    padding: 3px;
+    text-align: center;
+    margin: 3px;
+}
